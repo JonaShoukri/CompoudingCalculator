@@ -1,0 +1,15 @@
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/bin/Debug/net7.0/CompoundingCalculaor
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/bin/Debug/net7.0/CompoundingCalculaor.deps.json
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/bin/Debug/net7.0/CompoundingCalculaor.runtimeconfig.json
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/bin/Debug/net7.0/CompoundingCalculaor.dll
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/bin/Debug/net7.0/CompoundingCalculaor.pdb
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.csproj.AssemblyReference.cache
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.AssemblyInfoInputs.cache
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.AssemblyInfo.cs
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.csproj.CoreCompileInputs.cache
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.dll
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/refint/CompoundingCalculaor.dll
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.pdb
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/CompoundingCalculaor.genruntimeconfig.cache
+/Users/jonas/Documents/GitHub/CompoudingCalculator/CompoundingCalculaor/CompoundingCalculaor/obj/Debug/net7.0/ref/CompoundingCalculaor.dll
