@@ -1,2 +1,2 @@
 # CompoudingCalculator
- This public project calculates financial compounding of a certain amount, with a certian yearly buy in, with a certain return and a certain predetermined over a certain amount of time.
+ This micro-project calculates financial compounding. I honestly just made this because I had a meeting with the bank and wanted to be able to calculate my expected return on certain investment portfolios they were offering. Open sourcing this in case people decide to make it better or use it for themselves.
